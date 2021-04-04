@@ -115,7 +115,7 @@ print(b)
 
 
 #14
-def a():
+():
     print(1)
     b()
     print(2)
